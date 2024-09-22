@@ -1,6 +1,8 @@
 <!-- Header Banner -->
 
-![header](https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=SeongJIN's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45)
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=SeongJIN's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" alt="header"/>
+</div>
 
 <br>
 <div align='center'>
