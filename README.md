@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=SeongJIN's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" alt="header" style="margin-bottom: 20px;"/>
 </div>
 
-<h2 align="center" style="font-family: 'Arial', sans-serif; color: #555;">💻 깊고 넓게 공부하는 개발자 장성진입니다.</h2>
+<h3 align="center" style="font-family: 'Arial', sans-serif; color: #555;">💻 깊고 넓게 공부하는 개발자 장성진입니다.</h3>
 <hr style="border: 1px solid #ccc; margin: 20px 0;"/>
 <h3 align="center" style="font-family: 'Arial', sans-serif; color: #555;">🌈 소셜 미디어</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
