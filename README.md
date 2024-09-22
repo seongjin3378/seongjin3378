@@ -24,12 +24,13 @@
 
 
 
+<h2 style="text-align: center;">status</h2>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
     <a href="https://solved.ac/cpp_chobo/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cpp_chobo" alt="Solved.ac Profile"/>
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cpp_chobo" alt="Solved.ac Profile" style="width: 200px; height: auto;"/>
     </a>
     <a href="https://github.com/seongjin3378">
-        <img src="https://github-readme-stats.vercel.app/api?username=seongjin3378" alt="Seongjin3378's GitHub stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=seongjin3378" alt="Seongjin3378's GitHub stats" style="width: 200px; height: auto;"/>
     </a>
 </div>
 
