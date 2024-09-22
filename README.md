@@ -1,6 +1,7 @@
 <!-- Header Banner -->
+<div align='center'>
 ![header](https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=SeongJIN's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45)
-
+</div>
 <br>
 <div align='center'>
   <h2>💻 깊고 넓게 공부하는 개발자 장성진입니다.</h2>
@@ -58,8 +59,10 @@
 
 <!-- 방문자 수 카운터 -->
 <div align='center'>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongjin3378&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongjin3378&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 <!-- Footer -->
+<div align='center'>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+</div>
