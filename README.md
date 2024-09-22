@@ -24,10 +24,10 @@
 
 
 
-<!-- GitHub Stats -->
-<div align='center'>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongjin3378&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongjin3378&layout=compact)
+<div align="center">
+    <a href="https://solved.ac/cpp_chobo/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cpp_chobo" alt="Solved.ac Profile"/>
+    </a>
 </div>
 
 <br>
