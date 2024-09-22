@@ -7,11 +7,13 @@
 <br>
 <div align='center'>
   <h2>💻 깊고 넓게 공부하는 개발자 장성진입니다.</h2>
-  <p>✉ Email: <a href="mailto:seongjin3378@naver.com">seongjin3378@naver.com</a></p>
-  <p>🔗 Notion: <a href="https://www.notion.so/f6f312bb0abf43d6af5b046fdcf41e0b">노션링크</a></p>
-  <p>🌐 Blog: <a href="">블로그</a></p>
 </div>
 <br>
+<h3 align="center">🌈 소셜 미디어</h3>
+<p align="center">
+  <a href="https://www.notion.so/f6f312bb0abf43d6af5b046fdcf41e0b"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion"/></a>
+  <a href="mailto:seongjin3378@naver.com"><a href="mailto:seongjin3378@naver.com"><img src="https://img.shields.io/badge/Naver-03C75E?style=flat-square&logo=Naver&logoColor=white" alt="Naver"/></a></a>
+</p>
 
 <!-- 자기소개 -->
 <h3 align="center">👋 자기소개</h3>
@@ -46,13 +48,7 @@
 
 <br>
 
-<!-- 소셜 미디어 -->
-<h3 align="center">🌈 소셜 미디어</h3>
-<p align="center">
-  <a href="https://velog.io/@seongjin3378"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp
-  <a href="https://www.instagram.com/seongjin_dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
-  <a href="mailto:seongjin3378@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
+
 
 
 <!-- 방문자 수 카운터 -->
