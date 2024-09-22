@@ -3,7 +3,7 @@
 </div>
 
 <h2 align="center" style="margin: 20px 0; font-family: 'Arial', sans-serif; color: #333;">💻 깊고 넓게 공부하는 개발자 장성진입니다.</h2>
-
+<hr style="border: 1px solid #ccc; margin: 20px 0;"/>
 <h3 align="center" style="font-family: 'Arial', sans-serif; color: #555;">🌈 소셜 미디어</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
     <a href="https://www.notion.so/f6f312bb0abf43d6af5b046fdcf41e0b">
