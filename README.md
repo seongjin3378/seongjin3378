@@ -66,5 +66,6 @@
 
 <!-- Footer -->
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
-
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" alt="footer"/>
+</div>
