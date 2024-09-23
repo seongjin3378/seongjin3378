@@ -30,7 +30,7 @@
 <h3 align="center" style="font-family: 'Arial', sans-serif; color: #555;">📖 status 📖</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
     <a href="https://solved.ac/cpp_chobo/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cpp_chobo" alt="Solved.ac Profile" style="width: 400px; height: auto;"/>
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seongjin3378" alt="Solved.ac Profile" style="width: 400px; height: auto;"/>
     </a>
 </div>
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
