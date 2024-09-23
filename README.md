@@ -29,12 +29,12 @@
 
 <h3 align="center" style="font-family: 'Arial', sans-serif; color: #555;">📖 status 📖</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
-    <img src="https://github-readme-stats.vercel.app/api?username=seongjin3378&theme=algolia&show_icons=true" alt="seongjin's GitHub stats" style="width: 500px; height: auto;">
+    <img src="https://github-readme-stats.vercel.app/api?username=seongjin3378&theme=algolia&show_icons=true" alt="seongjin's GitHub stats" style="width: 450px; height: auto;">
 </div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
     <a href="https://solved.ac/profile/seongjin3378">
-        <img src="http://mazassumnida.wtf/api/generate_badge?boj=seongjin3378" style="width: 500px; height: auto;" alt="seongjin's Solved.ac Profile">
+        <img src="http://mazassumnida.wtf/api/generate_badge?boj=seongjin3378" style="width: 450px; height: auto;" alt="seongjin's Solved.ac Profile">
     </a>
 </div>
 
