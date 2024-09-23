@@ -34,9 +34,9 @@
     </a>
 </div>
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
-    <a href="https://github.com/seongjin3378">
-        <img src="https://github-readme-stats.vercel.app/api?username=seongjin3378" alt="Seongjin3378's GitHub stats" style="width: 400px; height: auto;"/>
-    </a>
+<a href="https://solved.ac/seongjin3378/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seongjin3378" alt="Solved.ac Profile">
+</a>
 </div>
 
 <hr style="border: 1px solid #ccc; margin: 20px 0;"/>
