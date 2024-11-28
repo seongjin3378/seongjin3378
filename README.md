@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=SeongJIN's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" alt="header" style="margin-bottom: 20px;"/>
 </div>
 
-<h3 align="center" style="font-family: 'Arial', sans-serif; color: #555;">💻 고급 개발자를 목표로하는 개발자 장성진입니다.</h3>
+<h3 align="center" style="font-family: 'Arial', sans-serif; color: #555;">💻 고급 개발자를 목표로하는 장성진입니다.</h3>
 <hr style="border: 1px solid #ccc; margin: 20px 0;"/>
 <h3 align="center" style="font-family: 'Arial', sans-serif; color: #555;">🌈 소셜 미디어</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
@@ -17,7 +17,7 @@
 <hr style="border: 1px solid #ccc; margin: 20px 0;"/>
 
 <h3 align="center" style="font-family: 'Arial', sans-serif; color: #555;">👋 자기소개</h3>
-<p align="center" style="margin: 0 0 20px; font-family: 'Arial', sans-serif; color: #666;">안녕하세요! 저는 백엔드에 관심이 있는 초보 개발자 장성진입니다. 다양한 백엔드 기술을 학습하고 적용하는 것에 관심이 많습니다!</p>
+<p align="center" style="margin: 0 0 20px; font-family: 'Arial', sans-serif; color: #666;">안녕하세요! 저는 백엔드에 관심이 있는 초급 개발자 장성진입니다. 다양한 백엔드 기술을 학습하고 적용하는 것에 관심이 많습니다!</p>
 <p align="center" style="margin: 0 0 20px; font-family: 'Arial', sans-serif; color: #666;">현재는 웹 개발에 집중하고 있습니다.</p>
 
 <hr style="border: 1px solid #ccc; margin: 20px 0;"/>
