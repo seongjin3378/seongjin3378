@@ -23,7 +23,7 @@
 <hr style="border: 1px solid #ccc; margin: 20px 0;"/>
 
 <h3 align="center" style="font-family: 'Arial', sans-serif; color: #555;">🔭 현재 작업 중인 프로젝트</h3>
-<p align="center" style="margin: 0 0 20px; font-family: 'Arial', sans-serif; color: #666;">- 프로젝트 A: ENGround</p>
+<p align="center" style="margin: 0 0 20px; font-family: 'Arial', sans-serif; color: #666;">- 프로젝트 : quiz_quest</p>
 
 <hr style="border: 1px solid #ccc; margin: 20px 0;"/>
 
