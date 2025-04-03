@@ -7,7 +7,7 @@
 <h3 align="center" style="font-family: 'Arial', sans-serif; color: #555;">🌈 소셜 미디어</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
     <a href="https://www.notion.so/f6f312bb0abf43d6af5b046fdcf41e0b">
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion"/>
+        <img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white" alt="tistory"/>
     </a>
     <a href="mailto:seongjin3378@naver.com">
         <img src="https://img.shields.io/badge/Naver-03C75E?style=flat-square&logo=Naver&logoColor=white" alt="Naver"/>
